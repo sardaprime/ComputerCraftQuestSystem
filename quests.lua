@@ -57,7 +57,6 @@ end
 
 function mainMenu()
 	mainMenuBool = true
-	page = 1
 	button.clearTable()
 	m.setBackgroundColor(colors.black)
 	m.clear()
